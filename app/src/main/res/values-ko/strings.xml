@@ -2,4 +2,10 @@
 <resources>
         <string name="app_name">quest001</string>
         <string name="hi">헬로월드</string>
+        <string name="toast">토스트버튼</string>
+        <string name="goole">구글창버튼</string>
+        <string name="tel">전화창</string>
+        <string name="button">변환버튼</string>
+        <string name="back">돌아가기</string>
+        <string name="change">화변바꾸기</string>
 </resources>
